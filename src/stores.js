@@ -4,16 +4,16 @@ export const FeedbackStore = writable([
     {
         id: 1,
         rating: 10,
-        text: 'lorem ipsum'
+        text: 'This is the best service ever'
     },
     {
         id: 2,
         rating: 2,
-        text: 'lorem ipsum'
+        text: 'Try working on your customer-care'
     },
     {
         id: 3,
-        rating: 6,
-        text: 'lorem ipsum',
+        rating: 9,
+        text: 'I Love it',
     }
 ])
